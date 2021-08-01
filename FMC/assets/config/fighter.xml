@@ -1,0 +1,275 @@
+<fighter_config>
+
+	<fighter id="mario" alternateId="oldma" name="Mario (0.9b)" namecss= "" txtNumber="12">
+		<face url="assets/face/mario.png" css="assets/face/mario_css.png"/>
+	</fighter>		
+	
+	<fighter id="oldma" alternateId="mario" name="Mario (0.8v)" namecss= "" txtNumber="12">
+		<face url="assets/face/oldma.png" css="assets/face/mario_css.png"/>
+	</fighter>		
+	
+	<fighter id="knuckles" alternateId="uganknux" name="Knuckles" namecss= "" txtNumber="11">
+		<face url="assets/face/knux.png" css="assets/face/knux_css.png"/>
+	</fighter>			
+	
+	<fighter id="uganknux" alternateId="knuckles" name="Uganda Knuckles" namecss= "" txtNumber="11">
+		<face url="assets/face/uganknux.png" css="assets/face/knux_css.png"/>
+	</fighter>		
+	
+	<fighter id="sonicremastered" alternateId="sanic" name="Sonic" namecss= "" txtNumber="12">
+		<face url="assets/face/sonic.png" css="assets/face/sonic_css.png"/>
+	</fighter>		
+	
+	<fighter id="sanic" alternateId="sonic" name="Sanic" namecss= "" txtNumber="12">
+		<face url="assets/face/sanic.png" css="assets/face/sonic_css.png"/>
+	</fighter>		
+	
+	<fighter id="sonic" alternateId="sanic" name="Sonic" namecss= "" txtNumber="12">
+		<face url="assets/face/sonic.png" css="assets/face/sonic_css.png"/>
+	</fighter>		
+	
+	<fighter id="pikachu" alternateId="null" name="Pikachu" namecss= "" txtNumber="12">
+		<face url="assets/face/pikachu.png" css="assets/face/pikachu_css.png"/>
+	</fighter>		
+	
+	<fighter id="jigglypuff" alternateId="null" name="Jigglypuff" namecss= "" txtNumber="9">
+		<face url="assets/face/jigglypuff.png" css="assets/face/jigglypuff_css.png"/>
+	</fighter>		
+	
+	<fighter id="ichigo" alternateId="ichigogh" name="Ichigo (0.9b)" namecss= "" txtNumber="12">
+		<face url="assets/face/ichigo.png" css="assets/face/ichigo_css.png"/>
+	</fighter>		
+	
+	<fighter id="ogichi" alternateId="ichigo" name="Ogichi" namecss= "" txtNumber="12">
+		<face url="assets/face/ogichi.png" css="assets/face/ichigo_css.png"/>
+	</fighter>		
+	
+	<fighter id="ichigogh" alternateId="ogichi" name="Ichigo (GH)" namecss= "" txtNumber="12">
+		<face url="assets/face/ichigogh.png" css="assets/face/ichigo_css.png"/>
+	</fighter>		
+	
+	<fighter id="lloyd" alternateId="null" name="Lloyd" namecss= "" txtNumber="12">
+		<face url="assets/face/lloyd.png" css="assets/face/lloyd_css.png"/>
+	</fighter>		
+	
+	<fighter id="link" alternateId="null" name="Link" namecss= "" txtNumber="12">
+		<face url="assets/face/link.png" css="assets/face/link_css.png"/>
+	</fighter>		
+	
+	<fighter id="peach" alternateId="null" name="Peach" namecss= "" txtNumber="12">
+		<face url="assets/face/peach.png" css="assets/face/peach_css.png"/>
+	</fighter>		
+	
+	<fighter id="yoshi" alternateId="null" name="Yoshi" namecss= "" txtNumber="12">
+		<face url="assets/face/yoshi.png" css="assets/face/yoshi_css.png"/>
+	</fighter>		
+	
+	<fighter id="wario" alternateId="null" name="Wario" namecss= "" txtNumber="12">
+		<face url="assets/face/wario.png" css="assets/face/wario_css.png"/>
+	</fighter>		
+	
+	<fighter id="donkeykong" alternateId="null" name="Donkey Kong" namecss= "" txtNumber="8">
+		<face url="assets/face/dk.png" css="assets/face/dk_css.png"/>
+	</fighter>			
+	
+	<fighter id="zelda" alternateId="sheik" name="Zelda" namecss= "" txtNumber="12">
+		<face url="assets/face/zelda.png" css="assets/face/zelda_css.png"/>
+	</fighter>		
+	
+	<fighter id="sheik" alternateId="zelda" name="Sheik" namecss= "" txtNumber="12">
+		<face url="assets/face/sheik.png" css="assets/face/zelda_css.png"/>
+	</fighter>		
+	
+	<fighter id="kirby" alternateId="null" name="Kirby" namecss= "" txtNumber="12">
+		<face url="assets/face/kirb.png" css="assets/face/kirb_css.png"/>
+	</fighter>		
+	
+	<fighter id="metaknight" alternateId="null" name="Meta Knight" namecss= "" txtNumber="8">
+		<face url="assets/face/mk.png" css="assets/face/mk_css.png"/>
+	</fighter>		
+	
+	<fighter id="fox" alternateId="null" name="Fox" namecss= "" txtNumber="12">
+		<face url="assets/face/fox.png" css="assets/face/fox_css.png"/>
+	</fighter>		
+	
+	<fighter id="samus" alternateId="null" name="Samus" namecss= "" txtNumber="12">
+		<face url="assets/face/samus.png" css="assets/face/samus_css.png"/>
+	</fighter>		
+	
+	<fighter id="zamus" alternateId="null" name="Zero Suit Samus" namecss= "" txtNumber="8">
+		<face url="assets/face/zss.png" css="assets/face/zss_css.png"/>
+	</fighter>		
+	
+	<fighter id="captainfalcon" alternateId="null" name="Captain Falcon" namecss= "" txtNumber="8">
+		<face url="assets/face/cp.png" css="assets/face/cp_css.png"/>
+	</fighter>	
+	
+	<fighter id="ness" alternateId="null" name="Ness" namecss= "" txtNumber="12">
+		<face url="assets/face/ness.png" css="assets/face/ness_css.png"/>
+	</fighter>		
+	
+	<fighter id="marth" alternateId="null" name="Marth" namecss= "" txtNumber="12">
+		<face url="assets/face/marth.png" css="assets/face/marth_css.png"/>
+	</fighter>		
+	
+	<fighter id="chibirobo" alternateId="null" name="Chibi-Robo" namecss= "" txtNumber="9">
+		<face url="assets/face/chibi.png" css="assets/face/chibi_css.png"/>
+	</fighter>		
+	
+	<fighter id="tails" alternateId="null" name="Tails" namecss= "" txtNumber="12">
+		<face url="assets/face/tails.png" css="assets/face/tails_css.png"/>
+	</fighter>		
+	
+	<fighter id="megaman" alternateId="null" name="Megaman" namecss= "" txtNumber="10">
+		<face url="assets/face/mega.png" css="assets/face/mega_css.png"/>
+	</fighter>		
+	
+	<fighter id="bomberman" alternateId="null" name="Bomberman" namecss= "" txtNumber="8">
+		<face url="assets/face/bomb.png" css="assets/face/bomb_css.png"/>
+	</fighter>	
+	
+	<fighter id="blackmage" alternateId="null" name="Black Mage" namecss= "" txtNumber="9">
+		<face url="assets/face/bm.png" css="assets/face/bm_css.png"/>
+	</fighter>		
+	
+	<fighter id="sora" alternateId="null" name="Sora" namecss= "" txtNumber="12">
+		<face url="assets/face/sora.png" css="assets/face/sora_css.png"/>
+	</fighter>		
+	
+	<fighter id="goku" alternateId="blackgoku" name="Goku" namecss= "" txtNumber="12">
+		<face url="assets/face/goku.png" css="assets/face/goku_css.png"/>
+	</fighter>	
+	
+	<fighter id="blackgoku" alternateId="evil" name="Black Goku" namecss= "" txtNumber="12">
+		<face url="assets/face/blackgoku.png" css="assets/face/goku_css.png"/>
+	</fighter>		
+	
+	<fighter id="evil" alternateId="evilgokutwo" name="Evil Goku" namecss= "" txtNumber="12">
+		<face url="assets/face/evil.png" css="assets/face/goku_css.png"/>
+	</fighter>		
+	
+	<fighter id="evilgokutwo" alternateId="goku" name="Evil Goku 2" namecss= "" txtNumber="12">
+		<face url="assets/face/evil2.png" css="assets/face/goku_css.png"/>
+	</fighter>		
+	
+	<fighter id="naruto" alternateId="kidnaruto" name="Naruto" namecss= "" txtNumber="12">
+		<face url="assets/face/naruto.png" css="assets/face/naruto_css.png"/>
+	</fighter>	
+	
+	<fighter id="kidnaruto" alternateId="naruto" name="Kid Naruto" namecss= "" txtNumber="12">
+		<face url="assets/face/kidnaruto.png" css="assets/face/naruto_css.png"/>
+	</fighter>		
+	
+	<fighter id="rand_mc" alternateId="null" name="Random" namecss= "" txtNumber="12">
+		<face url="assets/face/random.png" css="assets/face/random_css.png"/>
+	</fighter>		
+	
+	<fighter id="broly" alternateId="null" name="Broly" namecss= "" txtNumber="12">
+		<face url="assets/face/broly.png" css="assets/face/broly_css.png"/>
+	</fighter>
+
+	<fighter id="buggy" alternateId="null" name="Buggy" namecss= "" txtNumber="12">
+		<face url="assets/face/buggy.png" css="assets/face/buggy_css.png"/>
+	</fighter>		
+	
+	<fighter id="chuck" alternateId="null" name="Chuck Norris" namecss= "" txtNumber="12">
+		<face url="assets/face/chuck.png" css="assets/face/chuck_css.png"/>
+	</fighter>		
+	
+	<fighter id="doggotedd" alternateId="null" name="Dog" namecss= "" txtNumber="12">
+		<face url="assets/face/dog.png" css="assets/face/dog_css.png"/>
+	</fighter>		
+	
+	<fighter id="enel" alternateId="null" name="Enel" namecss= "" txtNumber="12">
+		<face url="assets/face/enel.png" css="assets/face/enel_css.png"/>
+	</fighter>		
+	
+	<fighter id="gohanblanco" alternateId="null" name="Gohan Blanco" namecss= "" txtNumber="12">
+		<face url="assets/face/gb.png" css="assets/face/gb_css.png"/>
+	</fighter>	
+	
+	<fighter id="grimmjow" alternateId="null" name="Grimmjow" namecss= "" txtNumber="12">
+		<face url="assets/face/gj.png" css="assets/face/gj_css.png"/>
+	</fighter>	
+	
+	<fighter id="itachitedd" alternateId="null" name="Itachi" namecss= "" txtNumber="12">
+		<face url="assets/face/itachi.png" css="assets/face/itachi_css.png"/>
+	</fighter>	
+	
+	<fighter id="jevil" alternateId="null" name="Jevil" namecss= "" txtNumber="12">
+		<face url="assets/face/jevil.png" css="assets/face/jevil_css.png"/>
+	</fighter>		
+	
+	<fighter id="josephtedd" alternateId="null" name="Joseph" namecss= "" txtNumber="12">
+		<face url="assets/face/josejose.png" css="assets/face/josejose_css.png"/>
+	</fighter>		
+	
+	<fighter id="kakashitedd" alternateId="null" name="Kakashi" namecss= "" txtNumber="12">
+		<face url="assets/face/kakashi.png" css="assets/face/kakashi_css.png"/>
+	</fighter>		
+	
+	<fighter id="king_knight" alternateId="null" name="King Knight" namecss= "" txtNumber="12">
+		<face url="assets/face/kk.png" css="assets/face/kk_css.png"/>
+	</fighter>		
+	
+	<fighter id="kiratedd" alternateId="null" name="Yoshikage Kira" namecss= "" txtNumber="12">
+		<face url="assets/face/yk.png" css="assets/face/yk_css.png"/>
+	</fighter>	
+	
+	<fighter id="ksasuke" alternateId="null" name="Kid Sasuke" namecss= "" txtNumber="12">
+		<face url="assets/face/ks.png" css="assets/face/ks_css.png"/>
+	</fighter>		
+	
+	<fighter id="moria" alternateId="null" name="Moria" namecss= "" txtNumber="12">
+		<face url="assets/face/moria.png" css="assets/face/moria_css.png"/>
+	</fighter>		
+	
+	<fighter id="mr_hat" alternateId="null" name="Mr. Hat" namecss= "" txtNumber="12">
+		<face url="assets/face/mh.png" css="assets/face/mh_css.png"/>
+	</fighter>	
+	
+	<fighter id="percy" alternateId="null" name="Percy" namecss= "" txtNumber="12">
+		<face url="assets/face/percy.png" css="assets/face/percy_css.png"/>
+	</fighter>			
+	
+	<fighter id="phantom_striker" alternateId="null" name="Phantom Striker" namecss= "" txtNumber="12">
+		<face url="assets/face/ps.png" css="assets/face/ps_css.png"/>
+	</fighter>			
+	
+	<fighter id="plague_knight" alternateId="null" name="Plague Knight" namecss= "" txtNumber="12">
+		<face url="assets/face/pk.png" css="assets/face/pk_css.png"/>
+	</fighter>			
+	
+	<fighter id="ppptedd" alternateId="null" name="Puri Puri Prisoner" namecss= "" txtNumber="12">
+		<face url="assets/face/ppp.png" css="assets/face/ppp_css.png"/>
+	</fighter>		
+	
+	<fighter id="saitamatedd" alternateId="null" name="Saitama" namecss= "" txtNumber="12">
+		<face url="assets/face/saitama.png" css="assets/face/saitama_css.png"/>
+	</fighter>		
+	
+	<fighter id="silver" alternateId="null" name="Silver" namecss= "" txtNumber="12">
+		<face url="assets/face/silver.png" css="assets/face/silver_css.png"/>
+	</fighter>	
+	
+	<fighter id="trunkz" alternateId="null" name="Trunks" namecss= "" txtNumber="12">
+		<face url="assets/face/trunks.png" css="assets/face/trunks_css.png"/>
+	</fighter>		
+	
+	<fighter id="yusuke" alternateId="null" name="Yusuke" namecss= "" txtNumber="12">
+		<face url="assets/face/yusuke.png" css="assets/face/yusuke_css.png"/>
+	</fighter>		
+	
+	<fighter id="zamasu" alternateId="null" name="Zamasu" namecss= "" txtNumber="12">
+		<face url="assets/face/zamasu.png" css="assets/face/zamasu_css.png"/>
+	</fighter>			
+	
+	<fighter id="zeta" alternateId="null" name="Zeta" namecss= "" txtNumber="12">
+		<face url="assets/face/zeta.png" css="assets/face/zeta_css.png"/>
+	</fighter>		
+	
+	<fighter id="shadow" alternateId="null" name="Shadow" namecss= "" txtNumber="12">
+		<face url="assets/face/shadow.png" css="assets/face/shadow_css.png"/>
+	</fighter>			
+	
+</fighter_config>

@@ -1,0 +1,506 @@
+{
+	"character_select_screen": {
+		"chip_offset": {
+			"y": 30,
+			"x": 45
+		},
+		"chip_bounds": {
+			"width": 610,
+			"y": 0,
+			"height": 310,
+			"x": -105
+		},
+		"portrait_offset": {
+			"y": 0,
+			"x": -60
+		},
+		"icon_size": {
+			"width": 38,
+			"height": 42,
+			"scale":0.7
+		},
+		"hand_bounds": {
+			"width": 610,
+			"y": -45,
+			"height": 355,
+			"x": -105
+		},
+		"portrait_spacing": 160,
+		"position": {
+			"y": 7,
+			"x": -42
+		},
+		"random": [ 				
+			"mario",
+			"peach",
+			"yoshi",
+			"wario",
+			"donkeykong",
+			"link",
+			"zelda",
+			"pikachu",
+			"jigglypuff",
+			"kirby",
+			"metaknight",
+			"fox",
+			"samus",
+			"zamus",
+			"captainfalcon",
+			 "ness",
+			 "marth",
+			 "chibirobo",
+			 "sonic",
+			 "tails",
+			 "knuckles",
+			 "megaman",
+			 "lloyd",
+			 "bomberman",
+			 "blackmage",
+			  "sora",
+			  "goku",
+			  "naruto",
+			  "ichigo",
+			  "oldma",
+			  "sheik",
+			  "broly",
+			 "buggy",
+			 "chuck",
+			 "doggotedd",
+			 "enel",
+			 "gohanblanco",
+			 "grimmjow",
+			 "itachitedd",
+			 "jevil",
+			 "josephtedd",
+			  "kakashitedd",
+			  "king_knight",
+			  "kiratedd",
+			  "ksasuke",
+			  "moria",
+			 "mr_hat",
+			 "percy",
+			 "phantom_striker",
+			 "plague_knight",
+			 "ppptedd",
+			 "saitamatedd",
+			 "silver",
+			 "trunkz",
+			 "uganknux",
+			 "yusuke",
+			  "zamasu",
+			  "zeta",
+			  "sanic",
+			  "ogichi",
+			  "ichigogh",
+			  "uganknux",
+			  "kidnaruto",
+			  "blackgoku",
+			  "evil",
+			  "evilgokutwo",
+			  "shadow"
+		],
+		"rows": [ 				
+		[
+				"mario",
+				"peach",
+				"yoshi",
+				"wario",
+				"donkeykong",
+				"link",
+				"zelda",
+				"pikachu",
+				"jigglypuff",
+				"kirby",
+				"metaknight",
+				"fox",
+				"samus",
+			    "zamus",
+				"captainfalcon"
+				],[
+			 "sonic",
+			 "tails",
+			 "knuckles",
+			 "shadow",
+			 "silver",
+			 "zeta",
+			 "lloyd",
+			 "ness",
+			 "megaman",
+			 "bomberman",
+			 "blackmage",
+			 "marth",
+			 "chibirobo",
+			 "sora",
+			 "jevil"
+			 ],[
+			 "doggotedd",	 
+			 "plague_knight",
+			 "king_knight",
+			 "phantom_striker",
+			 "mr_hat",
+			 "percy",
+			  "goku",
+			  "trunkz",
+			  "broly",
+			  "zamasu",
+			  "gohanblanco",
+			  "naruto",
+			  "itachitedd",
+			  "kakashitedd",
+			  "ksasuke"
+			  ],
+			  [
+			  "ichigogh",
+			  "grimmjow",
+			  "buggy",
+			  "enel",
+			  "moria",
+			  "saitamatedd",
+			  "ppptedd",
+			  "josephtedd",
+			  "kiratedd",
+			  "yusuke",
+			  "chuck",
+			  "rand_mc"
+			  ]
+		]
+	},
+	"character": 
+	{ 
+	"mario": {
+      "file_pub": "DAT44.ssf",
+      "file": "mario.ssf",
+      "guid": "b4768513-c851-4f19-8c73-6f18e4f27b64"
+	},	
+	"oldma": {
+      "file_pub": "oldma.ssf",
+      "file": "oldma.ssf",
+      "guid": "old68513-c851-4f19-8c73-6f18e4f27b64"
+	},
+	"knuckles": {
+      "file_pub": "knuckles.ssf",
+      "file": "knuckles.ssf",
+      "guid": "9qvb0eda-2ln4-cvpq-t496-pqlxmeo06319"
+	},
+	"sonic": {
+      "file_pub": "sonic.ssf",
+      "file": "sonic.ssf",
+      "guid": "7b84c137-a56c-4db9-b154-154c9da71076"
+	},
+	"pikachu": {
+      "file_pub": "pikachu.ssf",
+      "file": "pikachu.ssf",
+      "guid": "946e3554-6365-4321-8a04-aeac03dba42a"
+	},	
+	"jigglypuff": {
+      "file_pub": "jigglypuff.ssf",
+      "file": "jigglypuff.ssf",
+      "guid": "8fb252a6-b3fe-4572-8424-cc5f0f89f54e"
+	},
+	"ichigo": {
+      "file_pub": "ichigo.ssf",
+      "file": "ichigo.ssf",
+      "guid": "17955b8c-7dff-4167-ada2-b89d5e1562b8"
+	},	
+	"lloyd": {
+      "file_pub": "lloyd.ssf",
+      "file": "lloyd.ssf",
+      "guid": "45af93ac-000a-4b46-b897-f7cc4a79d50b"
+	},	
+	"link": {
+      "file_pub": "link.ssf",
+      "file": "link.ssf",
+      "guid": "6c4013ee-0672-4264-80e8-a3d63c506a6c"
+	},	
+	"peach": {
+      "file_pub": "peach.ssf",
+      "file": "peach.ssf",
+      "guid": "e7a05f86-e27b-4066-a4eb-447866207179"
+	},	
+	"yoshi": {
+      "file_pub": "yoshi.ssf",
+      "file": "yoshi.ssf",
+      "guid": "cc7f6275-769a-403a-aadf-725696cfbc79"
+	},	
+	"donkeykong": {
+      "file_pub": "donkeykong.ssf",
+      "file": "donkeykong.ssf",
+      "guid": "1c0a5cc2-123d-415f-8c2b-44031b295965"
+	},	
+	"zelda": {
+      "file_pub": "zelda.ssf",
+      "file": "zelda.ssf",
+      "guid": "68019ba3-5e17-4104-9a4c-3f9b8e4b3fe8"
+	},
+	"sheik": {
+      "file_pub": "zelda.ssf",
+      "file": "zelda.ssf",
+      "guid": "68019ba3-5e17-4104-9a4c-3f9b8e4b3fe8"
+	},	
+	"kirby": {
+      "file_pub": "kirby.ssf",
+      "file": "kirby.ssf",
+      "guid": "5f670bf6-edee-4bbf-b247-3a51d5ebddd3"
+	},	
+	"metaknight": {
+      "file_pub": "metaknight.ssf",
+      "file": "metaknight.ssf",
+      "guid": "94736651-1a09-4993-a55b-5b96aa402331"
+	},	
+	"fox": {
+      "file_pub": "fox.ssf",
+      "file": "fox.ssf",
+      "guid": "f207f49e-ebb8-462c-a8be-0d5b7aced723"
+	},
+	"samus": {
+      "file_pub": "samus.ssf",
+      "file": "samus.ssf",
+      "guid": "abad854d-8167-43a7-96a8-d0a666a8ffd3"
+	},
+	"samus": {
+      "file_pub": "samus.ssf",
+      "file": "samus.ssf",
+      "guid": "abad854d-8167-43a7-96a8-d0a666a8ffd3"
+	},	
+	"zamus": {
+      "file_pub": "zamus.ssf",
+      "file": "zamus.ssf",
+      "guid": "1ce8dafd-54ea-480a-a2d0-30c1e6db4dbf"
+	},	
+	"captainfalcons": {
+      "file_pub": "captainfalcon.ssf",
+      "file": "captainfalcon.ssf",
+      "guid": "addc9f5b-48d8-49df-9b23-e53d64c0c65e"
+	},	
+	"ness": {
+      "file_pub": "ness.ssf",
+      "file": "ness.ssf",
+      "guid": "4e1cd2be-4e9d-4fae-8fb9-d81ed2ba93d9"
+	},
+	"marth": {
+      "file_pub": "marth.ssf",
+      "file": "marth.ssf",
+      "guid": "9f391931-db1b-47a9-82b1-2c1d2560c6b7"
+	},
+	"chibirobo": {
+      "file_pub": "chibirobo.ssf",
+      "file": "chibirobo.ssf",
+      "guid": "c51a5173-a652-4c9a-9410-87b46e9702c3"
+	},
+	"tails": {
+      "file_pub": "tails.ssf",
+      "file": "tails.ssf",
+      "guid": "d83b1ca4-568d-44e9-9de3-d850b54b1643"
+	},	
+	"megaman": {
+      "file_pub": "megaman.ssf",
+      "file": "megaman.ssf",
+      "guid": "716b3fa7-a83b-42fe-b781-3ac8f0063fd6"
+	},
+	"bomberman": {
+      "file_pub": "bomberman.ssf",
+      "file": "bomberman.ssf",
+      "guid": "5db5bfc3-78aa-4ae8-8208-c39174673a01"
+	},
+	"blackmage": {
+      "file_pub": "blackmage.ssf",
+      "file": "blackmage.ssf",
+      "guid": "9b58e501-9135-4535-a349-53d9efde8809"
+	},
+	"sora": {
+      "file_pub": "sora.ssf",
+      "file": "sora.ssf",
+      "guid": "57068ce5-ad07-446a-8a80-5a2939219e9f"
+	},	
+	"goku": {
+      "file_pub": "goku.ssf",
+      "file": "goku.ssf",
+      "guid": "5652e175-9647-4342-a726-105cb4fab89a"
+	},
+	"naruto": {
+      "file_pub": "naruto.ssf",
+      "file": "naruto.ssf",
+      "guid": "d6a9d9ac-29fa-4015-bd40-81e2769db6ae"
+	},	
+	"blackgoku": {
+      "file_pub": "blackgoku.ssf",
+      "file": "blackgoku.ssf",
+      "guid": null
+	},	
+	"broly": {
+      "file_pub": "broly.ssf",
+      "file": "broly.ssf",
+      "guid": null
+	},	
+	"buggy": {
+      "file_pub": "buggy.ssf",
+      "file": "buggy.ssf",
+      "guid": "1ce8dafd-54ea-480a-a2d0-30c1e6db4dbf"
+	},	
+	"chuck": {
+      "file_pub": "chuck.ssf",
+      "file": "chuck.ssf",
+      "guid": null
+	},	
+	"doggotedd": {
+      "file_pub": "DogTEDD.ssf",
+      "file": "DogTEDD.ssf",
+      "guid": null
+	},	
+	"enel": {
+      "file_pub": "enel.ssf",
+      "file": "enel.ssf",
+      "guid": null
+	},
+	"evil": {
+      "file_pub": "evil.ssf",
+      "file": "evil.ssf",
+      "guid": null
+	},	
+	"evilgokutwo": {
+      "file_pub": "evilgokutwo.ssf",
+      "file": "evilgokutwo.ssf",
+      "guid": null
+	},	
+	"gohanblanco": {
+      "file_pub": "gohanblanco.ssf",
+      "file": "gohanblanco.ssf",
+      "guid": null
+	},	
+	"grimmjow": {
+      "file_pub": "grimmjow.ssf",
+      "file": "grimmjow.ssf",
+      "guid": null
+	},	
+	"ichigogh": {
+      "file_pub": "ichigogh.ssf",
+      "file": "ichigogh.ssf",
+      "guid": null
+	},	
+	"itachitedd": {
+      "file_pub": "ItachiTEDD.ssf",
+      "file": "ItachiTEDD.ssf",
+      "guid": null
+	},	
+	"jevil": {
+      "file_pub": "JevilTEDD.ssf",
+      "file": "JevilTEDD.ssf",
+      "guid": null
+	},
+	"josephtedd": {
+      "file_pub": "JosephTEDD.ssf",
+      "file": "JevilTEDD.ssf",
+      "guid": null
+	},
+	"kakashitedd": {
+      "file_pub": "KakashiTEDD.ssf",
+      "file": "KakashiTEDD.ssf",
+      "guid": null
+	},	
+	"kidnaruto": {
+      "file_pub": "kidnaruto.ssf",
+      "file": "kidnaruto.ssf",
+      "guid": null
+	},	
+	"king_knight": {
+      "file_pub": "KingKnightTEDD.ssf",
+      "file": "KingKnightTEDD.ssf",
+      "guid": null
+	},	
+	"kiratedd": {
+      "file_pub": "KiraTEDD.ssf",
+      "file": "KiraTEDD.ssf",
+      "guid": null
+	},	
+	"ksasuke": {
+      "file_pub": "ksasuke.ssf",
+      "file": "ksasuke.ssf",
+      "guid": null
+	},	
+	"moria": {
+      "file_pub": "moria.ssf",
+      "file": "moria.ssf",
+      "guid": null
+	},	
+	"mr_hat": {
+      "file_pub": "Mr.HatTEDD.ssf",
+      "file": "Mr.HatTEDD.ssf",
+      "guid": null
+	},	
+	"mr_hat": {
+      "file_pub": "Mr.HatTEDD.ssf",
+      "file": "Mr.HatTEDD.ssf",
+      "guid": null
+	},
+	"ogichi": {
+      "file_pub": "ogichi.ssf",
+      "file": "ogichi.ssf",
+      "guid": null
+	},
+	"percy": {
+      "file_pub": "PercyTEDD.ssf",
+      "file": "PercyTEDD.ssf",
+      "guid": null
+	},
+	"phantom_striker": {
+      "file_pub": "PhantomStrikerTEDD.ssf",
+      "file": "PhantomStrikerTEDD.ssf",
+      "guid": null
+	},	
+	"plague_knight": {
+      "file_pub": "PlagueKnightTEDD.ssf",
+      "file": "PlagueKnightTEDD.ssf",
+      "guid": null
+	},	
+	"ppptedd": {
+      "file_pub": "PPPTEDD.ssf",
+      "file": "PPPTEDD.ssf",
+      "guid": null
+	},	
+	"saitamatedd": {
+      "file_pub": "SaitamaTEDD.ssf",
+      "file": "SaitamaTEDD.ssf",
+      "guid": null
+	},	
+	"sanic": {
+      "file_pub": "sanic.ssf",
+      "file": "sanic.ssf",
+      "guid": null
+	},	
+	"silver": {
+      "file_pub": "silver.ssf",
+      "file": "silver.ssf",
+      "guid": "45afgws3-2334-it5n-ou53-f732ea79d50b"
+	},	
+	"trunkz": {
+      "file_pub": "trunkz.ssf",
+      "file": "trunkz.ssf",
+      "guid": null
+	},
+	"uganknux": {
+      "file_pub": "uganknux.ssf",
+      "file": "uganknux.ssf",
+      "guid": null
+	},	
+	"yusuke": {
+      "file_pub": "yusuke.ssf",
+      "file": "yusuke.ssf",
+      "guid": "52250ee5-st45-436s-sf45-09f44465291e"
+	},	
+	"zamasu": {
+      "file_pub": "zamasu.ssf",
+      "file": "zamasu.ssf",
+      "guid": null
+	},
+	"zeta": {
+      "file_pub": "zeta.ssf",
+      "file": "zeta.ssf",
+      "guid": null
+	},	
+	"shadow": {
+      "file_pub": "shadow.ssf",
+      "file": "shadow.ssf",
+      "guid": "65698547-po47-8745-6325-65887475471o"
+	}
+	}
+}
