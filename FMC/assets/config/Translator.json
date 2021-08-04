@@ -1,0 +1,71 @@
+{
+	"event_Mode": 
+	{ 
+	"MISC": {
+		"bestTime_en":"Best Time: ",
+		"bestTime_es":"Tiempo Record: ",
+		"Incomplete_en":"Incomplete",
+		"Incomplete_es":"Incompleto"
+	},
+	"CATCH_EM_ALL": {
+		"name_en":"Catch 'em all!",
+		"name_es":"¡Atrapalos ya!",
+		"desc_en":"Be the last one standing in this Pokémon scuffle!",
+		"desc_es":"Se el último en pie en esta batalla Pokémon!"
+	},
+	"SWORDSMEN": {
+		"name_en":"Swordsmen",
+		"name_es":"¡Guerra Afilada!",
+		"desc_en":"Prove that two swords are better than one!",
+		"desc_es":"¡Demuestra que dos espadas son mejores que una!"
+	},	
+	"AT_YOUR_SERVICE": {
+		"name_en":"At Your Service",
+		"name_es":"Al Servicio",
+		"desc_en":"Use assist trophies to take out your giant opponent!",
+		"desc_es":"¡Con ayuda de los asistentes derrota al gran oponente!"
+	},
+	"BOUNTY_HUNTING": {
+		"name_en":"Bounty Hunting",
+		"name_es":"Cazarrecompensas",
+		"desc_en":"Kill the green Yoshi without harming any innocent bystanders.",
+		"desc_es":"Derrota el Yoshi verde evitando que algún inocente muera."
+	},	
+	"LORD_OF_THE_JUNGLE_2": {
+		"name_en":"Lord of the Jungle 2",
+		"name_es":"Rey de la Jungla 2",
+		"desc_en":"his time he's brought a friend! Are you still the top primate?",
+		"desc_es":"Esta vez trajó un amigo, ¿Seguirás siendo el primate superior?"
+	},	
+	"DARK_LINKS_ADVANCE": {
+		"name_en":"Dark Link's Advance",
+		"name_es":"Dark Link's Advance",
+		"desc_en":"Defeat your shadow before the darkness envelops you.",
+		"desc_es":"¡Derrota tu lado oscuro antes de que se apodere de ti!"
+	},
+	"METEO_CAMPAIGN": {
+		"name_en":"Meteo Campaign",
+		"name_es":"Meteo Campaign",
+		"desc_en":"Defeat Fox on his home turf!",
+		"desc_es":"¡Derrota a Fox en su propio hogar!"
+	},
+	"NIGHTMARE_IN_DREAMLAND": {
+		"name_en":"Nightmare in Dreamland",
+		"name_es":"Pesadilla en Dreamland",
+		"desc_en":"Protect Kirby from the enigmatic attackers!",
+		"desc_es":"¡Protege a Kirby de los atacantes misteriosos!"
+	},
+	"SPEED_DEMON": {
+		"name_en":"Speed Demon",
+		"name_es":"Speed Demon",
+		"desc_en":"Kill your speedy opponent before time runs out.",
+		"desc_es":"¡Derrota al enemigo veloz antes de que el tiempo se acabe!"
+	},
+	"NINTENDO_ALLSTARS": {
+		"name_en":"Nintendo All-Stars",
+		"name_es":"Nintendo All-Stars",
+		"desc_en":"Prove your worth against flagship Nintendo characters!",
+		"desc_es":"¡Prueba que eres lo suficientemente fuerte para vencer a los personajes de Nintendo!"
+	}
+	}
+}

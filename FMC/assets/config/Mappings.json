@@ -97,7 +97,8 @@
 			  "blackgoku",
 			  "evil",
 			  "evilgokutwo",
-			  "shadow"
+			  "shadow",
+			  "sansmetal"
 		],
 		"rows": [ 				
 		[
@@ -131,8 +132,9 @@
 			 "marth",
 			 "chibirobo",
 			 "sora",
-			 "jevil"
+			 "sansmetal"
 			 ],[
+			 "jevil",
 			 "doggotedd",	 
 			 "plague_knight",
 			 "king_knight",
@@ -145,11 +147,11 @@
 			  "zamasu",
 			  "gohanblanco",
 			  "naruto",
-			  "itachitedd",
-			  "kakashitedd",
-			  "ksasuke"
+			  "ksasuke",
+			  "kakashitedd"
 			  ],
 			  [
+			  "itachitedd",
 			  "ichigogh",
 			  "grimmjow",
 			  "buggy",
@@ -389,7 +391,7 @@
 	},
 	"josephtedd": {
       "file_pub": "JosephTEDD.ssf",
-      "file": "JevilTEDD.ssf",
+      "file": "JosephTEDD.ssf",
       "guid": null
 	},
 	"kakashitedd": {
@@ -501,6 +503,11 @@
       "file_pub": "shadow.ssf",
       "file": "shadow.ssf",
       "guid": "65698547-po47-8745-6325-65887475471o"
+	},
+	"sansmetal": {
+      "file_pub": "sans.ssf",
+      "file": "sans.ssf",
+      "guid": "sans-by-metalovy-sutrak"
 	}
 	}
 }

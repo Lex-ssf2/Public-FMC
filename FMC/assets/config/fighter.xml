@@ -270,6 +270,10 @@
 	
 	<fighter id="shadow" alternateId="null" name="Shadow" namecss= "" txtNumber="12">
 		<face url="assets/face/shadow.png" css="assets/face/shadow_css.png"/>
+	</fighter>
+	
+	<fighter id="sansmetal" alternateId="null" name="Sans" namecss= "" txtNumber="12">
+		<face url="assets/face/sans.png" css="assets/face/sans_css.png"/>
 	</fighter>			
 	
 </fighter_config>
