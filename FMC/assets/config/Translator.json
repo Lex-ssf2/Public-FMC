@@ -67,5 +67,105 @@
 		"desc_en":"Prove your worth against flagship Nintendo characters!",
 		"desc_es":"¡Prueba que eres lo suficientemente fuerte para vencer a los personajes de Nintendo!"
 	}
+	},
+	"vs_Mode":
+	{
+		"match_desc":
+		{
+			"lives_en":"-man KO fest!",
+			"lives_es":"-vidas para usar.",
+			"time_en":"-minute survival fest!",
+			"time_es":"-minutos de lucha!"
+		}
+	},
+	"data_menu":
+	{
+		"export_en":"Export game data and settings to a file.",
+		"import_en":"Import game data and settings from a file.",
+		"error_en":"There was an error importing the game data.",
+		"success_en":"Game data loaded successfully.",
+		"cancel_en":"Import Cancelled.",
+		"errorload_en":"There was an error loading the game data.",
+		"erase_en":"Erase all game data and settings.",		
+		
+		"export_es":"Exporta los datos en un archivo.",
+		"import_es":"Importa los datos desde un archivo.",
+		"error_es":"Hubo un error importando los datos.",
+		"success_es":"Los datos han sido cargados correctamente.",
+		"cancel_es":"Importación Cancelada.",
+		"errorload_es":"Hubo un error cargando los datos.",
+		"erase_es":"Elimina todos los datos y configuraciones."
+	},
+	"group_menu":
+	{
+		"brawl_en":"Jump right in and start brawling with your friends!",
+		"rules_en":"Set the brawl rules before you fight!",
+		"special_en":"Battle with special rules! These don't affect records.",		
+		
+		"brawl_es":"Entra y empieza combates con tus amigos!",
+		"rules_es":"Acomoda las reglas antes de pelear!",
+		"special_es":"Lucha con reglas especiales!"
+	},
+	"main_menu":
+	{
+		"group_en":"Play a variety of Smash modes with multiple players.",
+		"options_en":"Choose and save your own personal Smash settings.",
+		"vault_en":"Check out SSF2 Media Content",
+		"online_en":"ISNT WORKING ANYMORE :DDDD",
+		"solo_en":"Play this mode solo or challenge it cooperatively.",
+		"data_en":"Manage saved game data and records.",
+		
+		"group_es":"Juega una variedad de modos Smash con multiples jugadores.",
+		"options_es":"Escoge y guarda tu configuracion para Smash.",
+		"vault_es":"Checa el contenido multimedia de SSF2.",
+		"online_es":"YO ESPERANDO QUE LEX HAGA ONLINE INSERTE ESQUELETO ESPERANDO.",
+		"solo_es":"Juega este modo solo o retalo cooperativamente.",
+		"data_es":"Gestiona los datos guardados del juego"
+	},
+	"options_menu":
+	{
+		"controls_en":"Modify control settings.",
+		"language_en":"Change the language.",
+		"sound_en":"Customize audio volumes.",
+		"quality_en":"Adjust the game's visual settings.",	
+		"res_en":"Your Resolution",
+		
+		"controls_es":"Modifica tus controles",
+		"language_es":"Cambia el idioma",
+		"sound_es":"Ajusta el volúmen.",
+		"quality_es":"Ajusta las opciones visuales",
+		"res_es":"Tu resolución"
+	},
+	"solo_menu":
+	{
+		"events_en":"Complete specific objectives!",
+		"training_en":"Head here for your daily training.",
+		"stadium_en":"Stadium Mode.",
+		"stadium2_en":"Target Test Practice",
+		
+		"events_es":"Realiza objetivos especificos!",
+		"training_es":"Ingresa para tu entrenamiento diario!",
+		"stadium_es":"Modo Estadio.",
+		"stadium2_es":"Destruye los Targets de prueba!"
+	},
+	"sound_menu":
+	{
+		"bmg_en":"Adjusts BGM Volume.",
+		"sfx_en":"Adjusts Sound FX Volume.",
+		"voice_en":"Adjusts Voice Volume.",		
+		
+		"bmg_es":"Ajusta la música de fondo.",
+		"sfx_es":"Ajusta los efectos de sonido.",
+		"voice_es":"Ajusta el volúmen de las voces."
+	},
+	"vault_menu":
+	{
+		"replay_en":"Re-watch all the action!",
+		"09b_en":"Watch the SSF2 v0.9 Intro.",
+		"08v_en":"Watch the SSF2 v0.8 Intro.",		
+		
+		"replay_es":"Revive toda la acción de una pelea!",
+		"09b_es":"Mira la intro de SSF2 v0.9.",
+		"08v_es":"Mira la intro de SSF2 v0.8."
 	}
 }
