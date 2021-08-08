@@ -120,8 +120,12 @@
 		<face url="assets/face/tails.png" css="assets/face/tails_css.png"/>
 	</fighter>		
 	
-	<fighter id="megaman" alternateId="null" name="Megaman" namecss= "" txtNumber="10">
+	<fighter id="megaman" alternateId="megamanx" name="Megaman" namecss= "" txtNumber="10">
 		<face url="assets/face/mega.png" css="assets/face/mega_css.png"/>
+	</fighter>		
+	
+	<fighter id="megamanx" alternateId="megaman" name="X" namecss= "" txtNumber="10">
+		<face url="assets/face/megamanx.png" css="assets/face/megamanx_css.png"/>
 	</fighter>		
 	
 	<fighter id="bomberman" alternateId="null" name="Bomberman" namecss= "" txtNumber="8">

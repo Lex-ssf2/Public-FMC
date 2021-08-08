@@ -98,7 +98,8 @@
 			  "evil",
 			  "evilgokutwo",
 			  "shadow",
-			  "sansmetal"
+			  "sansmetal",
+			  "megamanx"
 		],
 		"rows": [ 				
 		[
@@ -508,6 +509,11 @@
       "file_pub": "sans.ssf",
       "file": "sans.ssf",
       "guid": "sans-by-metalovy-sutrak"
+	},	
+	"megamanx": {
+      "file_pub": "megamanx.ssf",
+      "file": "megamanx.ssf",
+      "guid": "megaman-x-by-chickenz"
 	}
 	}
 }

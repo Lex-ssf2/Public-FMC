@@ -76,6 +76,36 @@
 			"lives_es":"-vidas para usar.",
 			"time_en":"-minute survival fest!",
 			"time_es":"-minutos de lucha!"
+		},
+		"special":
+		{
+			"mini_en":"Play mini-sized!",
+			"giant_en":"Play giant-sized!",
+			"slow_en":"Take your time in a cinematic fight!",
+			"fast_en":"Think fast in a lightning-quick battle!",
+			"vamp_en":"Recover half of the HP you deal to your foes!",
+			"veng_en":"Receive half of the damage you deal to your foes!",
+			"freeze_en":"Every attack will freeze your foe in a block of ice!",
+			"egg_en":"Every attack will trap your foe in an egg!",
+			"dramatic_en":"The camera will pay extra attention to your successful attacks!",
+			"turbo_en":"Cancel attacks after a successful hit for mind-blowing combos!",
+			"light_en":"Fly high in a floaty battle!",
+			"gravity_en":"Battle with intense gravity!",
+			"invi_en":"Fight while invisible!",
+			
+			"mini_es":"Juega una mini batalla!",
+			"giant_es":"Juega una gran batalla!",
+			"slow_es":"Toma tu tiempo en una pelea de película!",
+			"fast_es":"Piensa rápido en esta corta batalla!",
+			"vamp_es":"Recupera la mitad del daño que le haces al enemigo!",
+			"veng_es":"Recibe la mitad del daño que le das al enemigo!",
+			"freeze_es":"Cada ataque congelara a tu enemigo!",
+			"egg_es":"Cada ataque atrapara al enemigo en un huevo!",
+			"dramatic_es":"La camara le prestará más atención a tus buenos ataques!",
+			"turbo_es":"Cancela el ataque despues de golpear al enemigo para increibles combos!",
+			"light_es":"Vuela alto en esta ligera batalla!",
+			"gravity_es":"Lucha contra la intensa gravedad!",
+			"invi_es":"Peleas invisibles!"
 		}
 	},
 	"data_menu":
@@ -167,5 +197,192 @@
 		"replay_es":"Revive toda la acción de una pelea!",
 		"09b_es":"Mira la intro de SSF2 v0.9.",
 		"08v_es":"Mira la intro de SSF2 v0.8."
+	},
+	"items":
+	{
+		"smashball":
+		{
+			"desc":
+			{
+				"en":"Allows you to use your Final Smash.",
+				"es":"Te permite usar tu Final Smash"
+			}
+		},
+		"pokeball":
+		{
+			"desc":
+			{
+				"en":"Releases a Pokémon to fight alongside you.",
+				"es":"Libera un Pokémon que te acompañará"
+			}
+		},
+		"capsule":
+		{
+			"desc":
+			{
+				"en":"Contains a random item, or may explode!",
+				"es":"Contiene un item aleatorio, o quizas explote!"
+			}
+		},
+		"beam_sword":
+		{
+			"desc":
+			{
+				"en":"Saber of pure energy. Hits hard!",
+				"es":"Un sable de energia pura. Golpea fuerte!"
+			}
+		},
+		"fan":
+		{
+			"desc":
+			{
+				"en":"Repeatedly pummel your opponents!",
+				"es":"Un abanico que aporrea a tus oponentes!"
+			}
+		},
+		"home_run":
+		{
+			"desc":
+			{
+				"en":"Knock your opponent out of the park!",
+				"es":"Knockea tu oponente fuera del estadio!"
+			}
+		},
+		"tomato":
+		{
+			"desc":
+			{
+				"en":"Replenishes 50% damage when eaten.",
+				"es":"Cura el 50% de daño al ser comida."
+			}
+		},
+		"food":
+		{
+			"desc":
+			{
+				"en":"Replenishes damage when eaten.",
+				"es":"Cura el daño cuando es comida."
+			}
+		},
+		"assist":
+		{
+			"desc":
+			{
+				"en":"Guest characters come to aid the fighter!",
+				"es":"Personajes invitados que ayudan a luchar!"
+			}
+		},
+		"heart":
+		{
+			"desc":
+			{
+				"en":"Replenishes 100% damage.",
+				"es":"Cura 100% de daño."
+			}
+		},
+		"koopas":
+		{
+			"desc":
+			{
+				"en":"Throw them at opponents and watch them slide!",
+				"es":"Lanzalos y miralos deslizarse"
+			}
+		},
+		"raygun":
+		{
+			"desc":
+			{
+				"en":"Fires a laser bullet at your opponent.",
+				"es":"Dispara un laser a tus oponentes"
+			}
+		},
+		"bomb_omb":
+		{
+			"desc":
+			{
+				"en":"Explodes on contact. Caution - may walk around!",
+				"es":"Explota al contacto. Cuidado puede que camine!"
+			}
+		},
+		"cucco":
+		{
+			"desc":
+			{
+				"en":"Toss them around, but don't make them angry!",
+				"es":"Lanzalos por allí pero no las hagas enojar!"
+			}
+		},
+		"saturn":
+		{
+			"desc":
+			{
+				"en":"Walks around stage - throw him at your opponents!",
+				"es":"Caminan por el escenario - lanzalo a tus oponentes!"
+			}
+		},
+		"exptag":
+		{
+			"desc":
+			{
+				"en":"Senses motion nearby and explodes.",
+				"es":"Siente algún movimiento cerca y explota!"
+			}
+		},
+		"etank":
+		{
+			"desc":
+			{
+				"en":"Fully replenishes damage.",
+				"es":"Te recupera todo el daño!"
+			}
+		},
+		"bigmush":
+		{
+			"desc":
+			{
+				"en":"Makes you become giant-sized.",
+				"es":"Te vuelve mas grande!"
+			}
+		},
+		"minimush":
+		{
+			"desc":
+			{
+				"en":"Shrinks your character to mini-size.",
+				"es":"Achica a tu personaje..."
+			}
+		},
+		"freezie":
+		{
+			"desc":
+			{
+				"en":"Turns characters into a block of ice.",
+				"es":"Congela a los enemigos."
+			}
+		},
+		"starrod":
+		{
+			"desc":
+			{
+				"en":"Capable of firing a star projectile.",
+				"es":"Dispara estrellas como proyectiles."
+			}
+		},
+		"bumper":
+		{
+			"desc":
+			{
+				"en":"Bounces characters off like a pinball.",
+				"es":"Rebota a los personajes como en pinball!"
+			}
+		},
+		"pitfall":
+		{
+			"desc":
+			{
+				"en":"Set a trap for your opponenets!",
+				"es":"Tiende una trampa a tus oponentes!"
+			}
+		}
 	}
 }
