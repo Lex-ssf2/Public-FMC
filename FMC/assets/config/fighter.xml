@@ -172,7 +172,7 @@
 		<face url="assets/face/broly.png" css="assets/face/broly_css.png"/>
 	</fighter>
 
-	<fighter id="buggy" alternateId="null" name="Buggy" namecss= "" txtNumber="12">
+	<fighter id="buggy" alternateId="null" name="Buggy The Clown" namecss= "" txtNumber="12">
 		<face url="assets/face/buggy.png" css="assets/face/buggy_css.png"/>
 	</fighter>		
 	
@@ -207,6 +207,10 @@
 	<fighter id="josephtedd" alternateId="null" name="Joseph" namecss= "" txtNumber="12">
 		<face url="assets/face/josejose.png" css="assets/face/josejose_css.png"/>
 	</fighter>		
+	
+	<fighter id="josuketedd" alternateId="null" name="Josuke" namecss= "" txtNumber="12">
+		<face url="assets/face/josuke.png" css="assets/face/josuke_css.png"/>
+	</fighter>	
 	
 	<fighter id="kakashitedd" alternateId="null" name="Kakashi" namecss= "" txtNumber="12">
 		<face url="assets/face/kakashi.png" css="assets/face/kakashi_css.png"/>
