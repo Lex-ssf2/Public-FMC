@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <!-- 
 	Usage:
-
 	To localize the description, use the following format for the description element.
 	<description>
 	<text xml:lang="en">English App description goes here</text>
 	<text xml:lang="fr">French App description goes here</text>
 	<text xml:lang="ja">Japanese App description goes here</text>
 	</description>
-
 	To localize the name, use the following format for the name element.
 	<name>
 	<text xml:lang="en">English App name goes here</text>
@@ -19,10 +17,10 @@
 <application xmlns="http://ns.adobe.com/air/application/29.0">
   <id>FlashModdingCommunity</id>
   <versionNumber>1.0</versionNumber>
-  <filename>FMC</filename>
-  <description>whats upppppp</description>
-  <name>FMC</name>
-  <copyright>XDDD</copyright>
+  <filename>Super Smash Flash Modding Community</filename>
+  <description>I dont what im doing :)</description>
+  <name>Super Smash Flash Modding Community</name>
+  <copyright>2021</copyright>
   <initialWindow>
     <content>SSF2.swf</content>
     <systemChrome>standard</systemChrome>
@@ -35,7 +33,13 @@
     <minimizable>true</minimizable>
     <resizable>true</resizable>
   </initialWindow>
-  <icon/>
+  <icon>
+    <image128x128>AppIconsForPublish/Logo1.png</image128x128>
+    <image48x48>AppIconsForPublish/logo2.png</image48x48>
+    <image32x32>AppIconsForPublish/logo3.png</image32x32>
+    <image16x16>AppIconsForPublish/logo4.png</image16x16>
+  </icon>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
-  </application>
+  <supportedProfiles>desktop extendedDesktop tv extendedTV</supportedProfiles>
+</application>

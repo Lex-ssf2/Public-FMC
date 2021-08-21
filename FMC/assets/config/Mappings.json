@@ -227,6 +227,11 @@
       "file": "yoshi.ssf",
       "guid": "cc7f6275-769a-403a-aadf-725696cfbc79"
 	},	
+	"wario": {
+      "file_pub": "wario.ssf",
+      "file": "wario.ssf",
+      "guid": "e98d84bd-4a2d-4a2a-8440-f38caa78b7d4"
+	},	
 	"donkeykong": {
       "file_pub": "donkeykong.ssf",
       "file": "donkeykong.ssf",

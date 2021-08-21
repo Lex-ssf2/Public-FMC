@@ -1,0 +1,29 @@
+blackgoku
+T	he Work of the God (Downward input of Down B) now has the grabbed zoomed in for a moment
+SSJ Side B input down now spike regardless of character standing on ground
+	Base Down B projectile now follows user until shoot out or interrupted
+evil goku
+	no more glitch during SSJ form
+enel
+	camera boundary adjusted
+ichigogh
+	Removed the issue of lagging when 1st transform happens
+	Hollow form Up B now doesn't deal over 200 units of power
+joseph joestar
+	Special Up Throw now kill character at the end of the throw
+kid naruto && kid sasuke
+	remove some unneeded "variable", basically stuff has name but no object and script
+king knight
+	some code were edited
+moria
+	cam size adjusted
+old mario
+	now actually has a transformation bar
+saitama
+	Final Smash now kills when the cutscene ends instead of after the whole attack animation
+trunk (t)
+	Fixed overlap projectile properties
+	SSJ's Forward Throw can deal knockback at lower percent
+zamasu
+	Neutral B projectile now follows user until interrupted or shoot out
+	Fixed overlap projectile properties
