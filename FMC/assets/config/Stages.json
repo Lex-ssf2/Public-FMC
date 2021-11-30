@@ -1,0 +1,467 @@
+{
+	"random_stages": {
+		"stages": [
+			"battlefield",
+			"finaldestination",
+			"waitingroom",
+			"aetherhigh",
+			"bombfactory",
+			"bowserscastle",
+			"burnedtower",
+			"butterbuilding",
+			"casinonightzone",
+			"castlesiege",
+			"castlewily",
+			"chaosshrine",
+			"clocktown",
+			"crateria",
+			"diehousetedd",
+			"distantplanet",
+			"draculascastle",
+			"dreamland",
+			"emeraldcave",
+			"explodatoriumtedd",
+			"fortnitebus",
+			"fourside",
+			"francyshoptedd",
+			"galaxytours",					
+			"gamerdorien",
+			"gangplankgalleon",
+			"greengreendorien",
+			"greenhillzone",
+			"hongkong97",
+			"huecomundo",
+			"hylianskies",
+			"hyruletemple",
+			"jevilstagetedd",
+			"junglehijinx",					
+			"kingdicestagetedd",
+			"konohavillage",
+			"lunarcore",
+			"mariocircuitdraco",
+			"meteovoyage",
+			"mushroomkingdom3",
+			"mutecitydraco",
+			"nintendo3ds",
+			"peachscastle",
+			"peachscastle64",
+			"phase8",
+			"planetnamek",
+			"pokemonstadium3",
+			"polus",
+			"rainbowroute",
+			"sandocean",
+			"saturnvalley",
+			"sectorz",
+			"sewerscrusade",					
+			"shadowmosesisland",
+			"silphco",
+			"skysanctuary",
+			"skywardvoyage",
+			"skyworld",
+			"smashville",
+			"towerofsalvation",
+			"trainingroompm",
+			"twilighttown",					
+			"wariocastlepm",
+			"warioware",
+			"yoshisisland",
+			"yoshisstory",
+			"zcitytedd",
+			"centralhighway"
+		]
+	},
+	"stage_select_screen": {
+		"hand_start": {
+			"y": 0,
+			"x": 0
+		},
+		"screen_select": {
+			"icon_size": {
+				"width": 42,
+				"height": 25
+			},
+			"position": {
+				"y": -90,
+				"x": -292.5,
+				"random_y": -90,
+				"random_x": -200.5,
+				"scale": 0.82
+			},
+			"rowMax": 2,
+			"rows_1": [
+				[
+					"battlefield",
+					"finaldestination",
+					"waitingroom",
+					"aetherhigh",
+					"bombfactory",
+					"bowserscastle",
+					"burnedtower",
+					"butterbuilding",
+					"casinonightzone",
+					"castlesiege"
+				], 
+				[
+					"castlewily",
+					"centralhighway",
+					"chaosshrine",
+					"clocktown",
+					"crateria",
+					"diehousetedd",
+					"distantplanet",
+					"draculascastle",
+					"dreamland",
+					"emeraldcave"
+				],				
+				[
+					"explodatoriumtedd",
+					"fortnitebus",
+					"fourside",
+					"francyshoptedd",
+					"galaxytours",					
+					"gamerdorien",
+					"gangplankgalleon",
+					"greengreendorien",
+					"greenhillzone",
+					"hongkong97"
+				],
+				[
+					"huecomundo",
+					"hylianskies",
+					"hyruletemple",
+					"jevilstagetedd",
+					"junglehijinx",					
+					"kingdicestagetedd",
+					"konohavillage",
+					"lunarcore",
+					"mariocircuitdraco",
+					"meteovoyage"
+				],
+				[
+					"mushroomkingdom3",
+					"mutecitydraco",
+					"nintendo3ds",
+					"peachscastle",
+					"peachscastle64",					
+					"phase8",
+					"planetnamek",
+					"pokemonstadium3",
+					"polus",
+					"rainbowroute"
+				],				
+				[
+					"sandocean",
+					"saturnvalley",
+					"sectorz",
+					"sewerscrusade",					
+					"shadowmosesisland",
+					"silphco",
+					"skysanctuary",
+					"skywardvoyage",
+					"skyworld",
+					"smashville"
+				],				
+				[
+					"towerofsalvation",
+					"trainingroompm",
+					"twilighttown",					
+					"wariocastlepm",
+					"warioware",
+					"yoshisisland",
+					"yoshisstory",
+					"zcitytedd",
+					"random"
+				]
+			],	
+			"rows_2": [
+				[
+				]
+			]
+		},
+		"hand_bounds": {
+			"width": 610,
+			"y": -160,
+			"height": 320,
+			"x": -310
+		}
+	},
+	"stage": {
+		"battlefield": {
+			"guid": "ad6f95ac-4566-40eb-9ad3-e75702242cfd",
+			"file": "battlefield.ssf"
+		},
+		"finaldestination": {
+			"guid": "1fd1576f-0b77-4c6f-9a7d-3fe6ac0e6ce0",
+			"file": "finaldestination.ssf"
+		},
+		"waitingroom": {
+			"guid": "9a13e61a-bf28-4396-9d37-ac8a97c3a03b",
+			"file": "waitingroom.ssf"
+		},
+		"aetherhigh": {
+			"guid": null,
+			"file": "aetherhigh.ssf"
+		},	
+		"bombfactory": {
+			"guid": "1360391f-1a8e-4dc9-9032-7c347dd40a67",
+			"file": "bombfactory.ssf"
+		},		
+		"bowserscastle": {
+			"guid": "d2682e2b-5af4-4774-89e8-dc75952d403d",
+			"file": "bowserscastle.ssf"
+		},		
+		"burnedtower": {
+			"guid": null,
+			"file": "burnedtower.ssf"
+		},		
+		"butterbuilding": {
+			"guid": null,
+			"file": "butterbuilding.ssf"
+		},		
+		"casinonightzone": {
+			"guid": "51484658-3913-4eef-afdd-15dbcc01bdda",
+			"file": "casinonightzone.ssf"
+		},		
+		"castlesiege": {
+			"guid": "960c23e4-5910-4b1f-9c59-4935781ae00c",
+			"file": "castlesiege.ssf"
+		},		
+		"castlewily": {
+			"guid": "efaaa24f-942b-4031-bb52-74349799a3b4",
+			"file": "castlewily.ssf"
+		},		
+		"centralhighway": {
+			"guid": "bd592ce0-ad68-492d-b664-7e914dcaab68",
+			"file": "centralhighway.ssf"
+		},		
+		"chaosshrine": {
+			"guid": "9669b85c-fa35-443a-8cf9-7cddb9bf8e52",
+			"file": "chaosshrine.ssf"
+		},		
+		"clocktown": {
+			"guid": "eb13a025-dead-4fa1-9344-6904d7556bea",
+			"file": "clocktown.ssf"
+		},		
+		"crateria": {
+			"guid": "a84cddaa-14aa-4f83-b4e0-61faa8113c6d",
+			"file": "crateria.ssf"
+		},		
+		"diehousetedd": {
+			"guid": null,
+			"file": "diehousetedd.ssf"
+		},		
+		"distantplanet": {
+			"guid": "e965e152-fc63-4809-8a83-1c519ebf3c29",
+			"file": "distantplanet.ssf"
+		},		
+		"draculascastle": {
+			"guid": "efac6fad-6751-4804-aac5-7a7dd0253636",
+			"file": "draculascastle.ssf"
+		},		
+		"dreamland": {
+			"guid": "7fbc6488-e6d7-420c-94fa-e244635c90a8",
+			"file": "dreamland.ssf"
+		},		
+		"emeraldcave": {
+			"guid": "ce3d78f5-a7f5-4a71-a6c0-68e38e689ed2",
+			"file": "emeraldcave.ssf"
+		},		
+		"explodatoriumtedd": {
+			"guid": null,
+			"file": "explodatoriumtedd.ssf"
+		},		
+		"fortnitebus": {
+			"guid": null,
+			"file": "fortnitebus.ssf"
+		},
+		"fourside": {
+			"guid": "c970d1df-a3d6-4de7-b761-a90bd60215ca",
+			"file": "fourside.ssf"
+		},		
+		"francyshoptedd": {
+			"guid": "e16b7535-9a52-4426-bf49-92470e6eade8",
+			"file": "francyshoptedd.ssf"
+		},
+		"galaxytours": {
+			"guid": "f1eb7f31-1535-4d79-9419-0e904de27eaf",
+			"file": "galaxytours.ssf"
+		},		
+		"gamerdorien": {
+			"guid": null,
+			"file": "gamerdorien.ssf"
+		},
+		"gangplankgalleon": {
+			"guid": "b9c338ce-f61a-466d-a9e3-5c6dba0777db",
+			"file": "gangplankgalleon.ssf"
+		},		
+		"greengreendorien": {
+			"guid": null,
+			"file": "greengreendorien.ssf"
+		},
+		"greenhillzone": {
+			"guid": "84d6e11b-369c-4f8b-9c93-7de59e642d51",
+			"file": "greenhillzone.ssf"
+		},		
+		"hongkong97": {
+			"guid": null,
+			"file": "hongkong97.ssf"
+		},		
+		"huecomundo": {
+			"guid": "54647e53-1c41-4995-afbb-dd769c2f656c",
+			"file": "huecomundo.ssf"
+		},		
+		"hylianskies": {
+			"guid": "0e8bba01-4206-406e-8426-13475d21fa7f",
+			"file": "hylianskies.ssf"
+		},		
+		"hyruletemple": {
+			"guid": "3b853a71-ee2b-43ce-8383-10db58ba801c",
+			"file": "hyruletemple.ssf"
+		},		
+		"jevilstagetedd": {
+			"guid": null,
+			"file": "jevilstagetedd.ssf"
+		},		
+		"junglehijinx": {
+			"guid": "c19a717f-eeb7-46eb-8672-a4b5cda2f616",
+			"file": "junglehijinx.ssf"
+		},		
+		"kingdicestagetedd": {
+			"guid": null,
+			"file": "kingdicestagetedd.ssf"
+		},		
+		"konohavillage": {
+			"guid": "398f6974-49ef-4253-8967-50a749e649a1",
+			"file": "konohavillage.ssf"
+		},		
+		"lunarcore": {
+			"guid": "09f18b4d-7992-469b-9a63-e1a2d4d43a77",
+			"file": "lunarcore.ssf"
+		},		
+		"mariocircuitdraco": {
+			"guid": null,
+			"file": "mariocircuitdraco.ssf"
+		},
+		"meteovoyage": {
+			"guid": "b811c48b-97de-4827-b432-414d4baac2f6",
+			"file": "meteovoyage.ssf"
+		},		
+		"mushroomkingdom3": {
+			"guid": "0838825f-ca19-4452-96d5-6d9beb4d659d",
+			"file": "mushroomkingdom3.ssf"
+		},		
+		"mutecitydraco": {
+			"guid": null,
+			"file": "mutecitydraco.ssf"
+		},		
+		"nintendo3ds": {
+			"guid": "35d7b2e5-4bba-478e-8113-0620149a3b48",
+			"file": "nintendo3ds.ssf"
+		},		
+		"peachscastle": {
+			"guid": "7989887c-6ead-46c3-a514-c14f3b0135c4",
+			"file": "peachscastle.ssf"
+		},		
+		"peachscastle64": {
+			"guid": null,
+			"file": "peachscastle64.ssf"
+		},		
+		"phase8": {
+			"guid": "dc973197-b371-4e18-bf93-9f07861d9f10",
+			"file": "phase8.ssf"
+		},		
+		"planetnamek": {
+			"guid": "6a858747-1df4-4bf2-ae09-090c27db416c",
+			"file": "planetnamek.ssf"
+		},		
+		"pokemonstadium3": {
+			"guid": "52372260-aa56-4f81-91d1-9125503d30b5",
+			"file": "pokemonstadium3.ssf"
+		},		
+		"polus": {
+			"guid": null,
+			"file": "polus.ssf"
+		},		
+		"rainbowroute": {
+			"guid": "c02c1532-40ba-4e2a-8a7a-3dad26f05b87",
+			"file": "rainbowroute.ssf"
+		},		
+		"sandocean": {
+			"guid": "5c8fc04d-2fc8-4c6b-b26b-4d76fde1c838",
+			"file": "sandocean.ssf"
+		},		
+		"saturnvalley": {
+			"guid": "e16b7535-9a52-4426-bf49-92470e6eade8",
+			"file": "saturnvalley.ssf"
+		},	
+		"sectorz": {
+			"guid": "84272dba-a44c-4d4b-abe5-0a036419bdc7",
+			"file": "sectorz.ssf"
+		},		
+		"sewerscrusade": {
+			"guid": null,
+			"file": "sewerscrusade.ssf"
+		},		
+		"shadowmosesisland": {
+			"guid": "dcd65695-7249-4632-afc6-60db930db386",
+			"file": "shadowmosesisland.ssf"
+		},		
+		"silphco": {
+			"guid": "0ed03185-d4f0-4b40-a5a7-c31738ee59f4",
+			"file": "silphco.ssf"
+		},		
+		"skysanctuary": {
+			"guid": "85462325-8e72-46fb-9807-93c165d2643c",
+			"file": "skysanctuary.ssf"
+		},		
+		"skywardvoyage": {
+			"guid": "47b7422d-a5a4-445d-821f-cf490a205f7b",
+			"file": "skywardvoyage.ssf"
+		},		
+		"skyworld": {
+			"guid": "3d362503-d534-4e8b-ac2c-ddc5721317f5",
+			"file": "skyworld.ssf"
+		},	
+		"smashville": {
+			"guid": "2974ce3a-44de-415f-bc8d-d434f6fe0da2",
+			"file": "smashville.ssf"
+		},		
+		"towerofsalvation": {
+			"guid": "6fb5d183-c213-4f8d-bcf8-832ef8fb9cdf",
+			"file": "towerofsalvation.ssf"
+		},		
+		"trainingroompm": {
+			"guid": null,
+			"file": "trainingroompm.ssf"
+		},		
+		"twilighttown": {
+			"guid": "56f42162-cd47-43d8-be56-8265fc2d0c86",
+			"file": "twilighttown.ssf"
+		},		
+		"waitingroom": {
+			"guid": "9a13e61a-bf28-4396-9d37-ac8a97c3a03b",
+			"file": "waitingroom.ssf"
+		},		
+		"wariocastlepm": {
+			"guid": null,
+			"file": "wariocastlepm.ssf"
+		},
+		"warioware": {
+			"guid": "f0f9a82a-531b-46e8-9ce0-03a58042629f",
+			"file": "warioware.ssf"
+		},		
+		"yoshisisland": {
+			"guid": "9fc1f800-5aae-45f4-8979-9f605a86d2af",
+			"file": "yoshisisland.ssf"
+		},		
+		"yoshisstory": {
+			"guid": "78ec5f26-dcf3-4699-beaf-68f43f4e5c37",
+			"file": "yoshisstory.ssf"
+		},	
+		"zcitytedd": {
+			"guid": null,
+			"file": "zcitytedd.ssf"
+		}
+	}
+}

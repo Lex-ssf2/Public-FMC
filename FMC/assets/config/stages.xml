@@ -1,0 +1,80 @@
+<stages_config>	
+	<!-- Internal Assets -->
+	
+	<stages id="random" name="" info="" internalAsset="true"/>
+	<stages id="battlefield" name="Battlefield" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="waitingroom" name="Waiting Room" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="aetherhigh" name="Aether High" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="bombfactory" name="Bomb Factory" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="bowserscastle" name="Bowser´s Castle" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="burnedtower" name="Burned Tower" info="CreatorFMCSSB CrusadeFMCPorted byFMCDraco Kujo" internalAsset="true"/>
+	<stages id="butterbuilding" name="Butter Building" info="CreatorFMCMcleodGamingFMCPorted byFMCDraco Kujo" internalAsset="true"/>
+	<stages id="casinonightzone" name="Casino Night Zone" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="castlesiege" name="Castle Siege" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="castlewily" name="Skull Fortress" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="centralhighway" name="Central Highway" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="chaosshrine" name="Chaos Shrine" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="clocktown" name="Clock Town" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="crateria" name="Crateria" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="diehousetedd" name="Die House" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="distantplanet" name="Distant Planet" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="draculascastle" name="Dracula's Castle" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="dreamland" name="Dream Land" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="emeraldcave" name="Emerald Cave" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="explodatoriumtedd" name="Explodatorium" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="fortnitebus" name="Fortnite Bus" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="fourside" name="Fourside" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="francyshoptedd" name="Fancy Shop" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="galaxytours" name="Galaxy Tours" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="gamerdorien" name="Gamer" info="CreatorFMCDorien" internalAsset="true"/>
+	<stages id="gangplankgalleon" name="Gangplank Galleon" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="greengreendorien" name="Green Greens" info="CreatorFMCDorien" internalAsset="true"/>
+	<stages id="greenhillzone" name="Green Hill Zone" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="hongkong97" name="Hong Kong 97" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="huecomundo" name="Hueco Mundo" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="hylianskies" name="Hylian Skies" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="hyruletemple" name="Temple" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="jevilstagetedd" name="Jevil Boss Fight Stage" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="junglehijinx" name="Jungle Hijinx" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="kingdicestagetedd" name="King Dice Stage" info="CreatorFMCTEDD" internalAsset="true"/>
+	<stages id="konohavillage" name="Hidden Leaf Village" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="lunarcore" name="Lunar Core" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="mariocircuitdraco" name="Mario Circuit" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="meteovoyage" name="Meteo Campaigns" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="mushroomkingdom3" name="Mushroom Kingdom III" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="mutecitydraco" name="Mute City" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="nintendo3ds" name="Nintendo 3DS" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="peachscastle" name="Peach's Castle" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="peachscastle64" name="Peach's Castle 64" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="phase8" name="Phase 8" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="planetnamek" name="Planet Namek" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="pokemonstadium3" name="Pokemon Stadium 3" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="polus" name="Polus" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="rainbowroute" name="Mirror Chamber" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="sandocean" name="Sand Ocean" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="saturnvalley" name="Saturn Valley" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="sectorz" name="Sector Z" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="sewerscrusade" name="Sewers" info="CreatorFMCSSB CrusadeFMCPorted byFMCDraco Kujo" internalAsset="true"/>
+	<stages id="shadowmosesisland" name="Shadow Moses Island" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="silphco" name="Silph Co." info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="skysanctuary" name="Sky Sanctuary Zone" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="skywardvoyage" name="Skyward Voyage" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="skyworld" name="Skyworld" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="smashville" name="Smashville" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="towerofsalvation" name="Tower of Salvation" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="trainingroompm" name="Training Room (PM)" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="twilighttown" name="Twilight Town" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="waitingroom" name="Waiting Room" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="wariocastlepm" name="Wario's Castle (PM)" info="CreatorFMCDraco Kujo" internalAsset="true"/>
+	<stages id="warioware" name="WarioWare, Inc." info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="yoshisisland" name="Yoshi's Island" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="yoshisstory" name="Yoshi's Story" info="CreatorFMCMcleodGaming" internalAsset="true"/>
+	<stages id="zcitytedd" name="Z-City" info="CreatorFMCTEDD" internalAsset="true"/>
+	
+	<!-- External Assets -->
+	
+	<stages id="finaldestination" name="Final Destinations" info="CreatorFMCMcleodGaming" internalAsset="false">
+		<preview url= "assets/stages/FD50.png"/>
+	</stages>	
+	
+</stages_config>

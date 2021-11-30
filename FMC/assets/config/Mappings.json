@@ -5,7 +5,7 @@
 			"x": 45
 		},
 		"chip_bounds": {
-			"width": 610,
+			"width": 650,
 			"y": 0,
 			"height": 310,
 			"x": -105
@@ -15,12 +15,12 @@
 			"x": -60
 		},
 		"icon_size": {
-			"width": 38,
-			"height": 42,
-			"scale":0.7
+			"width": 32,
+			"height": 33,
+			"scale":0.62
 		},
 		"hand_bounds": {
-			"width": 610,
+			"width": 650,
 			"y": -45,
 			"height": 355,
 			"x": -105
@@ -28,7 +28,7 @@
 		"portrait_spacing": 160,
 		"position": {
 			"y": 7,
-			"x": -42
+			"x": -62
 		},
 		"random": [ 				
 			"mario",
@@ -100,74 +100,85 @@
 			"evilgokutwo",
 			"shadow",
 			"sansmetal",
-			"megamanx"
+			"megamanx",
+			"vergilcomical",
+			"nessbeta",
+			"kirbybeta",
+			"wariobeta"
 		],
-		"rows": [ 				
+		"rowMax": 1,
+		"rows_1": [ 				
 		[
-				"mario",
-				"peach",
-				"yoshi",
-				"wario",
-				"donkeykong",
-				"link",
-				"zelda",
-				"pikachu",
-				"jigglypuff",
-				"kirby",
-				"metaknight",
-				"fox",
-				"samus",
-			    "zamus",
-				"captainfalcon"
-				],[
-			 "sonic",
-			 "tails",
-			 "knuckles",
-			 "shadow",
-			 "silver",
-			 "zeta",
-			 "lloyd",
-			 "ness",
-			 "megaman",
-			 "bomberman",
-			 "blackmage",
-			 "marth",
-			 "chibirobo",
-			 "sora",
-			 "sansmetal"
-			 ],[
-			 "jevil",
-			 "doggotedd",	 
-			 "plague_knight",
-			 "king_knight",
-			 "phantom_striker",
-			 "mr_hat",
-			 "percy",
-			  "goku",
-			  "trunkz",
-			  "broly",
-			  "zamasu",
-			  "gohanblanco",
-			  "naruto",
-			  "ksasuke",
-			  "kakashitedd"
-			  ],
-			  [
-			  "itachitedd",
-			  "ichigogh",
-			  "grimmjow",
-			  "buggy",
-			  "enel",
-			  "moria",
-			  "saitamatedd",
-			  "ppptedd",
-			  "josephtedd",
-			  "josuketedd",
-			  "kiratedd",
-			  "yusuke",
-			  "chuck",
-			  "rand_mc"
-			  ]
+			"mario",
+			"peach",
+			"yoshi",
+			"wario",
+			"donkeykong",
+			"link",
+			"zelda",
+			"pikachu",
+			"jigglypuff",
+			"kirby",
+			"metaknight",
+			"fox",
+			"samus",
+			"zamus",
+			"captainfalcon",
+			"blackmage",
+			"sora",
+			"ness",
+			"marth"
+			],[
+			"sonic",
+			"tails",
+			"knuckles",
+			"shadow",
+			"silver",
+			"zeta",
+			"megaman",
+			"bomberman",
+			"lloyd",
+			"chibirobo",
+			"sansmetal",
+			"jevil",
+			"doggotedd",	 
+			"plague_knight",
+			"king_knight",
+			"phantom_striker",
+			"mr_hat",
+			"percy",
+			"vergilcomical"
+			],[
+			"goku",
+			"trunkz",
+			"broly",
+			"zamasu",
+			"gohanblanco",
+			"naruto",
+			"ksasuke",
+			"kakashitedd",
+			"itachitedd",
+			"ichigogh",
+			"grimmjow",
+			"buggy",
+			"enel",
+			"moria",
+			"saitamatedd",
+			"ppptedd",
+			"josephtedd",
+			"josuketedd",
+			"kiratedd"
+			],
+			[
+			"yusuke",
+			"chuck",
+			"rand_mc"
+			]
+		],
+		"rows_2": [ 				
+			[
+				"rand_mc"
+			]
 		]
 	},
 	"character": 
@@ -526,6 +537,26 @@
       "file_pub": "megamanx.ssf",
       "file": "megamanx.ssf",
       "guid": "megaman-x-by-chickenz"
+	},	
+	"vergilcomical": {
+      "file_pub": "vergil.ssf",
+      "file": "vergil.ssf",
+      "guid": "el-vergin-jaj"
+	},	
+	"nessbeta": {
+      "file_pub": "nessbeta.ssf",
+      "file": "nessbeta.ssf",
+      "guid": "ness-beta-port"
+	},	
+	"kirbybeta": {
+      "file_pub": "kirbybeta.ssf",
+      "file": "kirbybeta.ssf",
+      "guid": "kirby-beta-port"
+	},	
+	"wariobeta": {
+      "file_pub": "wariobeta.ssf",
+      "file": "wariobeta.ssf",
+      "guid": "wario-beta-port"
 	}
 	}
 }

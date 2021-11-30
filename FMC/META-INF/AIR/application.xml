@@ -14,7 +14,7 @@
 	<text xml:lang="ja">Japanese App name goes here</text>
 	</name>
 -->
-<application xmlns="http://ns.adobe.com/air/application/29.0">
+<application xmlns="http://ns.adobe.com/air/application/32.0">
   <id>FlashModdingCommunity</id>
   <versionNumber>1.0</versionNumber>
   <filename>Super Smash Flash Modding Community</filename>
@@ -28,7 +28,7 @@
     <visible>true</visible>
     <fullScreen>false</fullScreen>
     <aspectRatio>portrait</aspectRatio>
-    <renderMode>auto</renderMode>
+    <renderMode>cpu</renderMode>
     <maximizable>true</maximizable>
     <minimizable>true</minimizable>
     <resizable>true</resizable>
@@ -41,5 +41,5 @@
   </icon>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
-  <supportedProfiles>desktop extendedDesktop tv extendedTV</supportedProfiles>
+  <supportedProfiles>desktop extendedDesktop </supportedProfiles>
 </application>
